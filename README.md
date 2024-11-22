@@ -6,9 +6,9 @@
 - 
 - 📫 How to reach me:
 - You can reach me through
--  [my email](mailto:pushpendrakewat9@gmail.com)
+-  [my email] (mailto:pushpendrakewat9@gmail.com)
 -  or on
--  [LinkedIn](https://www.linkedin.com/in/pushpendra-kewat-6a4616269/?trk=opento_sprofile_details).
+-  [LinkedIn] (https://www.linkedin.com/in/pushpendra-kewat-6a4616269/?trk=opento_sprofile_details).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and often participate in coding competitions! 🚀
 
